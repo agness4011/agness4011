@@ -31,11 +31,9 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=agness4011&show_icons=true&theme=nightowl"
     alt="Hyeonsu's GitHub stats"
-    width="49%"
   />
   <img
     src="https://streak-stats.demolab.com/?user=agness4011&theme=material-palenight"
     alt="GitHub Streak"
-    width="49%"
   />
 </p>
