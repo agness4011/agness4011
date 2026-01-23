@@ -1,5 +1,7 @@
  <div class="header">
-      <img src="https://capsule-render.vercel.app/api?
+      <img
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hyeonsu's%20Github&fontColor=ffffff&fontSize=48&color=gradient"
+/>
 type=waving&
 color=0:58ACFA,100:2EFEF7&
 height=180&
