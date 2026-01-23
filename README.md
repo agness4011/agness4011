@@ -27,6 +27,6 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
     
-![Hyeonsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=agness4011&show_icons=true&theme=radical)    
+![Hyeonsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=agness4011&show_icons=true&theme=nightowl)    
 
 <br>
