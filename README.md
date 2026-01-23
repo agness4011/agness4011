@@ -28,7 +28,6 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📋 Stat 📋</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agness4011&show_icons=true&theme=nightowl" />
   <img src="https://streak-stats.demolab.com/?user=agness4011&theme=material-palenight" />
 </p>
 
