@@ -5,7 +5,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
     <div align= "center"> <a href=https://velog.io/@agness4011> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@agness4011"> </a>
       <a href=https://blog.naver.com/lemon_library> <img src="https://img.shields.io/badge/NaverBlog-03C75A?style=for-the-badge&logo=NaverBlog&logoColor=white&link=https://blog.naver.com/lemon_library"> </a>
-         <a href=1b8d872b-594c-8154-8f2c-0002d13a8c79> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link= agness6565@skuniv.ac.kr"> </a>
          <a href=https://www.instagram.com/kii_hs_> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/kii_hs"> </a>
          <a href=mailto:agness6565@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:agness6565@gmail.com"> </a>
           </div><br>
