@@ -28,16 +28,9 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📋 Stat 📋</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=agness4011&show_icons=true&theme=nightowl"
-    alt="Hyeonsu's GitHub stats"
-    width="50%"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=agness4011&theme=material-palenight"
-    alt="GitHub Streak"
-    width="50%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=agness4011&show_icons=true&theme=nightowl" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=agness4011&theme=material-palenight" width="49%" />
 </p>
+>
 
 
