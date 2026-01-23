@@ -34,7 +34,7 @@
     width="50%"
   />
   <img
-    src="https://streak-stats.demolab.com/?user=agness4011&theme=nightowl"
+    src="https://streak-stats.demolab.com/?user=agness4011&theme=material-palenight"
     alt="GitHub Streak"
     width="50%"
   />
