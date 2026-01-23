@@ -28,7 +28,7 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📋 Stat 📋</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=agness4011&theme=aura" />
+  <img src="https://streak-stats.demolab.com/?user=agness4011&theme=oceandark" />
 </p>
 
 
