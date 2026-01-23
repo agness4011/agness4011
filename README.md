@@ -33,7 +33,7 @@
     alt="Hyeonsu's GitHub stats"
   />
   <img
-    src="https://streak-stats.demolab.com/?user=agness4011&theme=material-palenight"
+    src="https://streak-stats.demolab.com/?user=agness4011&theme=nightowl"
     alt="GitHub Streak"
   />
 </p>
