@@ -1,5 +1,13 @@
  <div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=shark&fontColor=000000&text=Hyeonsu's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Hyeonsu's GitHub">
+      <img src="https://capsule-render.vercel.app/api?
+type=waving&
+color=0:58ACFA,100:2EFEF7&
+height=180&
+fontAlignY=36&
+section=header&
+text=Hyeounsu's%20Github%20&
+fontSize=25&
+fontColor=FFFFFF" />
     </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
