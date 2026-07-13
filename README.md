@@ -44,13 +44,6 @@
 | 2026 ~ Present | **Frontend Staff** @ LIKELION Seokyeong University 14th |
 
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=agness4011&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=agness4011&layout=compact&theme=tokyonight&hide_border=true)
-
-
 ## 📫 Contact
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/agness4011)
