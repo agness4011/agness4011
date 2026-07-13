@@ -1,26 +1,66 @@
- <div class="header">
-      <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hyeonsu's%20Github&fontColor=ffffff&fontSize=48&color=gradient"
-/>
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
-    <div align= "center"> <a href=https://velog.io/@agness4011> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@agness4011"> </a>
-      <a href=https://hyeonsu-library.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://hyeonsu-library.tistory.com"> </a>
-      <a href=https://blog.naver.com/lemon_library> <img src="https://img.shields.io/badge/NaverBlog-03C75A?style=for-the-badge&logo=NaverBlog&logoColor=white&link=https://blog.naver.com/lemon_library"> </a>
-         <a href=mailto:hyeonsukim05@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hyeonsukim05@gmail.com"> </a>
-         <a href=mailto:hyeonsu-k@naver.com> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hyeonsu-k@naver.com"> </a>
-          </div><br>
-    <div align= "center">  </div> 
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypescriptL&logoColor=white">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          </div>
-    </div><br>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hyeonsu's%20Github&fontColor=ffffff&fontSize=48&color=gradient"/>
+
+## 🚀 Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Styling
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+
+### State & Data Fetching
+
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+
+### Collaboration & Tools
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 
+## 🏆 Awards
 
+| Year | Award |
+| :--: | :---- |
+| **2025** | **LIKELION** 13th line4thon [**PLINK**] - **우수상** |
+
+
+## 📌 Experience
+
+| Period | Experience |
+| :----: | :--------- |
+| 2026 ~ Present | **Frontend Staff** @ LIKELION Seokyeong University 14th |
+
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=agness4011&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=agness4011&layout=compact&theme=tokyonight&hide_border=true)
+
+
+## 📫 Contact
+
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/agness4011)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://hyeonsu-library.tistory.com/)
+[![Naver Blog](https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/lemon_library)
+
+
+### 📧 Email
+
+hyeonsukim05@gmail.com </br>
+hyeonsu-k@naver.com
+
+</div>
