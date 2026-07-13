@@ -34,7 +34,7 @@
 
 | Year | Award |
 | :--: | :---- |
-| **2025** | **LIKELION** 13th line4thon [**PLINK**] - **우수상** |
+| **2025** | **LIKELION 13th Line4thon Hackathon** – **PLINK** · **우수상** |
 
 
 ## 📌 Experience
@@ -42,6 +42,8 @@
 | Period | Experience |
 | :----: | :--------- |
 | 2026 ~ Present | **Frontend Staff** @ LIKELION Seokyeong University 14th |
+| 2025 | **Frontend Track** @ LIKELION Seokyeong University 13th |
+| 2025 | **4th KEIT Tech Focus Supporters** (한국산업기술기획평가원) |
 
 
 ## 📫 Contact
