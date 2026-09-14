@@ -40,6 +40,7 @@
 
 | Period | Experience |
 | :----: | :--------- |
+| 2026 ~ Present | **Frontend Developer** @ Knockdog [[GitHub]](https://github.com/PetCampus-Inc/daeng_v2_front) |
 | 2026 ~ Present | **Frontend Staff** @ LIKELION Seokyeong University 14th |
 | 2025 | **Frontend Track** @ LIKELION Seokyeong University 13th |
 | 2025 | **4th KEIT Tech Focus Supporters** (한국산업기술기획평가원) |
